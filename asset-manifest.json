@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textulips/static/css/main.34491651.css",
+    "main.js": "/textulips/static/js/main.18f4c950.js",
+    "static/js/453.56cb90da.chunk.js": "/textulips/static/js/453.56cb90da.chunk.js",
+    "index.html": "/textulips/index.html",
+    "main.34491651.css.map": "/textulips/static/css/main.34491651.css.map",
+    "main.18f4c950.js.map": "/textulips/static/js/main.18f4c950.js.map",
+    "453.56cb90da.chunk.js.map": "/textulips/static/js/453.56cb90da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34491651.css",
+    "static/js/main.18f4c950.js"
+  ]
+}
